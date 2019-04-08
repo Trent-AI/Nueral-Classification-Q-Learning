@@ -1,2 +1,2 @@
 This file will first run a explicit Q-learning algorithm to find the values of each state of a hard coded maze. Then, a simple neural network will train to classifiy each state with the move corresponding to the highest Q-value. However, in this implementation, there is a 1% chance the network is pushed in a random direction.
-This network was unable to fully learn the map and would get stuck if pushed. However, it did learn the fastest path
+This network was unable to fully learn the map and would get stuck if pushed. However, it did learn the fastest path.
